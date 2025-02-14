@@ -1,0 +1,46 @@
+  
+  #fav_web_links{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  
+  }
+
+  #otherLinks:hover{
+    color: rgb(217, 11, 11);
+    background-color:  rgb(255, 255, 255);
+  }
+
+  .nav-link:hover{
+    color: white;
+    background-color:  rgb(16, 130, 187);
+    
+  }
+  .Hozline2{
+     
+     border: 5px dotted rgba(155, 137, 169, 0.515);
+  }
+  h3{
+    color: rgba(13, 105, 109, 0.885);
+    border: 2px solid rgb(0,0,0);
+    border-color: #000000;
+    background-color: rgb(255, 255, 255);
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 1px 1px rgb(15, 24, 201);
+    
+  }
+  h1{
+    color: rgba(13, 105, 109, 0.885);
+    border: 2px solid rgb(0,0,0);
+    border-color: #000000;
+    background-color: rgb(255, 255, 255);
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 1px 1px rgb(15, 24, 201);
+  }
+ 
